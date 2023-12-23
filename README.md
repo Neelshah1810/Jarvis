@@ -11,7 +11,8 @@ Text-to-Speech: It responds with synthesized speech to provide answers and perfo
 Customizable: Developers can extend and modify the code to add new features and services.
 Interactive Voice Commands: Users can communicate with the assistant by speaking commands or questions aloud.
 Use Cases: Jarvis can be adapted for various purposes, from setting alarms and checking the weather to web searches and more.
-#Requirements
+
+# Requirements
 Python 3.x
 Required Python libraries: pyttsx3, speech_recognition, wikipedia, webbrowser, os, time, pyautogui, random, requests, googlesearch-python
 Install the necessary libraries using pip:
